@@ -76,4 +76,4 @@ npm start
 
 ## Author
 
-[Telegram](https://t.me/plzbugmenot)
+[Telegram](https://t.me/wsol12)
